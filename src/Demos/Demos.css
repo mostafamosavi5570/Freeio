@@ -1,0 +1,23 @@
+.Demos {
+    width: 100%;
+    text-align: center;
+}
+
+.Demos-text h1 {
+    color: rgba(0, 0, 0, 1);
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.Demos p{
+    font-size: 21px;
+    font-weight: 400;
+    transition: 0.3s;
+}
+
+.product {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}

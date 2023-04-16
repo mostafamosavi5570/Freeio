@@ -1,0 +1,15 @@
+
+.continer{
+    background: rgba(240, 239, 236, 1);
+    padding-top: 32px;
+    padding-right: 32px;
+    padding-left: 32px;
+    transform: translate(0px, 0px);
+    border-radius: 13px;
+    cursor: pointer;
+}
+.continer:hover{
+    background: rgb(31,75,63);
+    box-shadow: 5px 5px 20px  #888888;
+    text-align: center;
+}

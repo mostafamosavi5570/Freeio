@@ -1,0 +1,26 @@
+.menu{
+  margin-left: 600px;
+
+}
+.List-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+  .List-li {
+    float: right;
+  }
+  .List-link {
+
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+  }
+  .List-li a:hover {
+    color: rgb(197, 197, 197);
+    
+  }

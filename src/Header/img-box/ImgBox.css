@@ -1,0 +1,9 @@
+.ImgBox {
+position: relative;
+top: -220px;
+left: 350px;
+width: auto;
+}
+.ImgBox img{
+    border-radius: 15px;
+}
