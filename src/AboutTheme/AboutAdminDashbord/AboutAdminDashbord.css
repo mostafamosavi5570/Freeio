@@ -1,0 +1,40 @@
+.aboutAdmindashbord{
+    display: flex;
+    direction: ltr;
+    margin-top: 200px; 
+    background-color: rgb(238,242,246);  
+}
+.AdminDassbordImage{
+
+}
+.elementorText{
+    padding-right: 90px;
+    padding-left: 10px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    direction: rtl;
+}
+.elementorText h1{
+    font-size: 44px;
+    font-family: sans-serif;
+}
+.elementorText p{
+    font-family: sans-serif;
+    font-size: 19px;
+    transition: 0.3s;
+    text-align:justify ;
+    padding-left: 50px;
+    line-height: 1.5;
+}
+.elementorText ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    line-height: 1.7;
+}
+.elementorText ul li{
+    margin-bottom: 15px;
+    font-family: sans-serif;
+    
+}
