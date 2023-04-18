@@ -1,0 +1,27 @@
+.propertys {
+    width: 100%;
+    margin-top: 200px;
+    text-align: center;
+    
+}
+
+.Peropertys-text h1 {
+    color: rgba(0, 0, 0, 1);
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.Peropertys-text p{
+    font-size: 21px;
+    font-weight: 400;
+    transition: 0.3s;
+}
+
+.property-p {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+    
+
+}

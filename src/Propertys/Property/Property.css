@@ -1,0 +1,14 @@
+.property{
+    padding: 15px 20px 15px 10px;
+    width: 300px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(229, 229, 229);
+    border-radius: 7px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 16px 2px;
+    opacity: 1;
+    margin-top: 10px;
+}
+.property:hover{
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 16px 2px;
+}
