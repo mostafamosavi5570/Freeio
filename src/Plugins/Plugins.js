@@ -15,27 +15,27 @@ export default function Plugins() {
             <div className="Plugin-img">
                 <div>
                     <img src={threa} alt="" />
-                    <span>المنتور پرو</span>
+                    <p>المنتور پرو</p>
                 </div>
                 <div>
                     <img src={four} alt="" />
-                    <span>المنتور پرو</span>
+                    <p>المنتور پرو</p>
                 </div>
                 <div>
                     <img src={five} alt="" />
-                    <span>المنتور پرو</span>
+                    <p>المنتور پرو</p>
                 </div>
                 <div>
                     <img src={six} alt="" />
-                    <span>المنتور پرو</span>
+                    <p>المنتور پرو</p>
                 </div>
                 <div>
                     <img src={seven} alt="" />
-                    <span>المنتور پرو</span>
+                    <p>المنتور پرو</p>
                 </div>
                 <div>
                     <img src={eight} alt="" />
-                    <span>المنتور پرو</span>
+                    <p>المنتور پرو</p>
                 </div>
             </div>
         </div>
