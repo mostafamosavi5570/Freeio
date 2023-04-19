@@ -5,6 +5,7 @@ import Demos from "./Demos/Demos";
 import Propertys from "./Propertys/Propertys";
 import PageSliders from "./PageSlider/PageSliders";
 import AboutThemes from "./AboutTheme/AboutThemes";
+import Plugins from "./Plugins/Plugins";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Propertys />
       <PageSliders />
       <AboutThemes />
+      <Plugins />
     </div>
   );
 }

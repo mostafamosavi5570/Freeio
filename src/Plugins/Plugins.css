@@ -1,0 +1,10 @@
+.Plugins{
+    width: 100%;
+    background-color: rgb(34,34,34);
+}
+.Plugin-text{
+    color: white;
+    display: flex;
+    direction: rtl;
+    justify-content: space-between;
+}
