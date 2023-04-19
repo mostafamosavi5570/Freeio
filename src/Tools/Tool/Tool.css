@@ -1,0 +1,24 @@
+.Tool{
+    padding-top: 20px;
+    padding-right: 23px;
+    padding-bottom: 20px;
+    padding-left: 23px;
+    border-width: 2px 2px 2px 2px;
+    border-style: solid solid solid solid;
+    border-color: #e5e5e5 #e5e5e5 #e5e5e5 #e5e5e5;
+    border-radius: 12px 12px 12px 12px;
+    direction: rtl;
+    width: 400px;
+    margin-top: 50px;
+}
+.Tool-text h4{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: rgba(34, 34, 34, 1);
+    font-weight: 600;
+    transition: 0.3s;
+}
+.Tool-text p{
+    text-align: justify;
+    
+}

@@ -1,0 +1,21 @@
+.Tools-text{
+    text-align: center;
+    margin-top: 100px;
+}
+.Tools-text h1{
+    font-family: sans-serif;
+    color: rgba(34, 34, 34, 1);
+    font-weight: 600;
+    transition: 0.3s;
+    font-size: 44px
+}
+.Tools-text p{
+    font-size: 16px;
+    color: rgba(68, 68, 68, 1);
+    line-height: 1.8;
+}
+.Tool-component{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
