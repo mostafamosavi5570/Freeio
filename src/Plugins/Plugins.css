@@ -2,6 +2,7 @@
     width: 100%;
     background-color: rgb(34, 34, 34);
 }
+
 .Plugin-text {
     color: white;
     display: flex;
@@ -10,29 +11,32 @@
     width: 100%;
     padding-top: 20px;
 }
+
 .Plugin-text h1 {
     font-size: 50px;
     width: 70%;
 
 }
+
 .Plugin-text p {
     font-size: 16px;
     line-height: 1.8;
     width: 20%;
 }
-.Plugin-img{
+
+.Plugin-img {
     display: flex;
     justify-content: center;
-
-    
 }
-.Plugin-img p  {
+
+.Plugin-img p {
     text-align: center;
     color: white;
     font-size: 20px;
     font-weight: 600;
-    
+
 }
-.Plugin-img div{
+
+.Plugin-img div {
     padding: 20px;
 }

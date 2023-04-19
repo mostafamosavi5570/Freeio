@@ -6,6 +6,7 @@ import Propertys from "./Propertys/Propertys";
 import PageSliders from "./PageSlider/PageSliders";
 import AboutThemes from "./AboutTheme/AboutThemes";
 import Plugins from "./Plugins/Plugins";
+import AbouteResponsive from "./AboutTheme/AboutResponsiveTheme/AboutResponsive";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <PageSliders />
       <AboutThemes />
       <Plugins />
+      <AbouteResponsive /> 
     </div>
   );
 }
