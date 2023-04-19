@@ -8,6 +8,7 @@ import AboutThemes from "./AboutTheme/AboutThemes";
 import Plugins from "./Plugins/Plugins";
 import AbouteResponsive from "./AboutTheme/AboutResponsiveTheme/AboutResponsive";
 import Tools from "./Tools/Tools";
+import Footer from "./Footer/Footer";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
       <Plugins />
       <AbouteResponsive /> 
       <Tools />
+      <Footer />
     </div>
   );
 }
